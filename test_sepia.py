@@ -1,4 +1,4 @@
-#Author: Stephen Okwudihshu - T012 - 101180912
+
 
 from Cimpl import choose_file, load_image, copy, create_color, set_color,\
                   show, Image, get_color, create_color, create_image, get_color, set_color,\
