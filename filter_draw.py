@@ -1,4 +1,3 @@
-#Author: Stephen Okwudishu 101180912 T012
 
 from Cimpl import*
 import numpy as np
