@@ -12,7 +12,7 @@ from point_manipulation import*
 
 def _adjust_component(comp: int) -> int:
     """
-    Author : Riya Arora T007
+
     
     Helper function created for the posterize filter. 
     Determines the quadrant in which a component lies and returns the 
@@ -36,7 +36,7 @@ def _adjust_component(comp: int) -> int:
 
 def posterize(image: Image):
     """
-    Author : Riya Arora T007
+
     
     Adjusts image to have smaller number of colours than the original using the helper
     adjust component function.
