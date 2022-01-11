@@ -1,5 +1,4 @@
-# Author: Riya Arora
-# Student Number: 101187987
+
 from Cimpl import *
 
 # Main script
