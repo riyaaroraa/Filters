@@ -1,4 +1,4 @@
-""" ECOR 1051 Fall 2019
+"""
 
 Test function for the invert filter in simple_Cimpl_filters.
 Last edited: Nov. 16, 2019 (Edited comments. No changes to algorithms.)
