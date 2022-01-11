@@ -1,5 +1,4 @@
-# Author: Faith Grant-Lewis
-# Student Number: 101187987
+
 from Cimpl import *
 
 # Horizontal flip function
